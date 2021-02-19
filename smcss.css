@@ -1,0 +1,35 @@
+* {
+    
+    box-sizing: border-box;
+}
+header {
+    padding: 30px;
+    background-color: rgb(34, 138, 151);
+    }
+    header h1 {
+        text-align: center;
+        font-size: 60px;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    main {
+        background-color: rgb(227, 232, 236);
+        text-align: center;
+        font-size: 30px;
+        
+    }
+    div a:hover{
+        background-color: rgb(24, 23, 23);
+    color: #eee;
+    }
+    h2{
+        border: 1px solid black;
+        margin-top: 20px;
+    }
+    h4,h5{
+        border: 1px solid black;
+        margin-top: 0;  
+    }
+    p{
+        font-family: 'Times New Roman', Times, serif;
+    }

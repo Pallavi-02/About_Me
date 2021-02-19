@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: century 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-image: url(wbp.jpg);
+    height: 800px;
+    background-position: center;
+    background-size: cover;
+}
+
+
+ ul{
+    float: right;
+    list-style-type: none;
+    margin-top: 30px;
+}
+ ul li{
+    display: inline-block;
+}
+ ul li a{
+    text-decoration: none;
+    color: rgb(250, 249, 249);
+    padding: 10px 20px;
+    border: 1px solid rgb(240, 237, 237);
+    font-size: 100%;
+}
+ul li a:hover{
+    background-color: rgb(184, 91, 91);
+    color: #eee;
+}

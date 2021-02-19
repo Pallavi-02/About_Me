@@ -1,0 +1,29 @@
+* {
+    
+    box-sizing: border-box;
+}
+header {
+    padding: 30px;
+     background-color:  rgba(45,56,45,0.8); 
+    }
+    header h1 {
+        text-align: center;
+        font-size: 60px;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        
+    }
+    main {
+        background-color: rgb(227, 232, 236);
+        text-align: left;
+        font-size: 30px;
+        
+    }
+    div a:hover{
+        background-color: rgb(189, 165, 165);
+    color: #eee;
+    }
+    h2{
+        border: 1px solid black;
+        margin-top: 15px;
+    }
